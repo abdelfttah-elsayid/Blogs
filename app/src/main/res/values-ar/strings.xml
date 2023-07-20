@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مدونتي</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="profile">الملف الشخصى</string>
+    <string name="name">الاسم</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="update">تعديل</string>
+    <string name="title">"العنوان "</string>
+    <string name="content">المحتوى</string>
+    <string name="add_blog">إضافة مقال</string>
+</resources>
